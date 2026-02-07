@@ -23,8 +23,8 @@
 最終的に**選抜チーム**に選ばれ、  
 **全校生徒および教員の前で成果発表**を行いました。
 
-※ 下部に発表時の写真を掲載予定  
-※ 詳細な企画背景・調査内容・検証結果については、発表スライドをご参照ください。
+<img width="860" height="410" alt="image" src="https://github.com/user-attachments/assets/d0ab6eff-f837-4fed-b028-fd9aaf8b252f" />
+
 
 ---
 
