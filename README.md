@@ -95,6 +95,17 @@
 
 ---
 
+## 環境変数について
+本プロジェクトでは、APIキーや認証情報などの機密情報を  
+GitHub上に公開しないため、**環境変数による設定管理**を行っています。
+
+ローカル環境で実行する場合は、`.env.example` を参考に  
+`.env` ファイルを作成してください。
+
+```bash
+cp .env.example .env
+
+
 ## 動作方法（ローカル）
 ```bash
 pip install -r requirements.txt
